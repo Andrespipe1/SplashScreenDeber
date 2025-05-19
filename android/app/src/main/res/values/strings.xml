@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Galeria de fotos</string>
+    <string name="title_activity_main">Galeria de fotos</string>
+    <string name="package_name">com.example.galeria</string>
+    <string name="custom_url_scheme">com.example.galeria</string>
+</resources>
