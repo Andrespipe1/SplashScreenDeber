@@ -11,8 +11,9 @@ Icono personalizado de la aplicacion
 <br/>
 Splash Screen para la aplicacion
 <br/>
+![WhatsApp Image 2025-05-18 at 7 21 46 PM](https://github.com/user-attachments/assets/0ff5854f-bb27-4eb1-8a03-b2114108fe2f)
 
-![WhatsApp Image 2025-05-18 at 7 21 35 PM](https://github.com/user-attachments/assets/de32e5ec-08ab-480f-b7bb-405179fefdc7)
+
 
 Aplicacion de galeria
 <br/>
