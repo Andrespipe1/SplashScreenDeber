@@ -5,15 +5,15 @@ Andres Tufiño <br/>
 <br/>
 Icono personalizado de la aplicacion
 <br/>
-![Sin título](https://github.com/user-attachments/assets/3e284b26-0a59-4ff9-8d57-488daa1441f1)
+![xd1](https://github.com/user-attachments/assets/f466d4e6-7f45-4c6c-8a8d-d9c63336ed6e)
+
 <br/>
 Splash Screen para la aplicacion
 <br/>
-![Sin título-1](https://github.com/user-attachments/assets/147c6822-f9e4-40e0-a950-ae7b6c544272)
-<br/>
+![WhatsApp Image 2025-05-18 at 7 21 35 PM](https://github.com/user-attachments/assets/8d99baaa-cc1f-4056-8e02-2bdb3f622b7f)
+
 Aplicacion de galeria
 <br/>
-![Sin título](https://github.com/user-attachments/assets/762efe16-f6c9-4ef0-ba22-3f79287c8c08)
-
+![WhatsApp Image 2025-05-18 at 7 21 46 PM](https://github.com/user-attachments/assets/4d039da8-e807-4d21-bb24-8430e88c5b3b)
 
 
